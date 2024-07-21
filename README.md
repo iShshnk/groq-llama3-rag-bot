@@ -59,7 +59,8 @@ To use this application, you'll need a Groq API key. Follow these steps to obtai
 3. Use the Gradio interface to interact with the system:
 
    Step 1: Upload PDF
-   ![Upload PDF](https://github.com/iShshnk/groq-llama3-rag-bot/blob/main/media/1.png)
+   ![Upload PDF]
+   (https://github.com/iShshnk/groq-llama3-rag-bot/blob/main/media/1.png)
 
    Step 2: Process the PDF
    ![Process PDF](https://github.com/iShshnk/groq-llama3-rag-bot/blob/main/media/2.png)
