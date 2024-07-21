@@ -2,7 +2,7 @@
 
 This project implements a powerful Retrieval Augmented Generation (RAG) system using GROQ and LLAMA-3 models, with a user-friendly Gradio interface. It allows users to upload PDF documents, process them, and ask questions about their content, leveraging advanced language models to provide accurate answers.
 
-![Gradio Interface](groq-llama3-rag-bot/media/A.png)
+![Gradio Interface](https://github.com/iShshnk/groq-llama3-rag-bot/blob/main/media/1.png)
 
 ## Features
 
