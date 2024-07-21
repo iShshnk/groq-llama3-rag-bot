@@ -33,6 +33,8 @@ To use this application, you'll need a Groq API key. Follow these steps to obtai
 1. Clone this repository:
    ```
    git clone https://github.com/iShshnk/groq-llama3-rag-bot.git
+   ```
+   ```
    cd groq-llama3-rag-bot
    ```
 
