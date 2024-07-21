@@ -78,21 +78,14 @@ To use this application, you'll need a Groq API key. Follow these steps to obtai
    - Extract text from the PDF
    - Split the text into chunks
    - Create embeddings for each chunk
-   - Store the embeddings in a vector database for quick retrieval
+   - Store the embeddings in the ChromaDB vector database for quick retrieval
 
 3. **Asking Questions**: Once the PDF is processed, you can type your questions into the text input field and click "Submit" to get answers.
 
 4. **Retrieving Answers**: The system will:
    - Convert your question into an embedding
-   - Search the vector database for relevant chunks
+   - Search the ChromaDB vector database for relevant chunks
    - Use GROQ and LLAMA-3 models to generate an answer based on the retrieved chunks and your question
-
-## Customization
-
-You can customize this project by:
-- Adjusting the chunk size for document splitting
-- Experimenting with different embedding models
-- Fine-tuning the GROQ and LLAMA-3 models for your specific use case
 
 ## License
 
