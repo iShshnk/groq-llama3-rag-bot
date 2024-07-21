@@ -1,0 +1,7 @@
+gradio
+langchain
+langchain_community
+groq
+pypdf
+sentence-transformers
+chromadb
