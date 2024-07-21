@@ -12,7 +12,7 @@ from groq import Groq
 from typing import Any, List, Optional
 
 # Set up Groq client
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "your_groq_api_key_here"
 os.environ["GROQ_API_KEY"] = GROQ_API_KEY
 groq_client = Groq(api_key=GROQ_API_KEY)
 
