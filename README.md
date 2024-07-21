@@ -2,7 +2,7 @@
 
 This project implements a powerful Retrieval Augmented Generation (RAG) system using GROQ and LLAMA-3 models, with a user-friendly Gradio interface. It allows users to upload PDF documents, process them, and ask questions about their content, leveraging advanced language models to provide accurate answers.
 
-![Gradio Interface](https://github.com/iShshnk/groq-llama3-rag-bot/blob/main/media/1.png)
+![Gradio Interface](https://github.com/iShshnk/groq-llama3-rag-bot/blob/main/media/A.png)
 
 ## Features
 
@@ -57,16 +57,16 @@ To use this application, you'll need a Groq API key. Follow these steps to obtai
 3. Use the Gradio interface to interact with the system:
 
    Step 1: Upload PDF
-   ![Upload PDF](groq-llama3-rag-bot/media/1.png)
+   ![Upload PDF](https://github.com/iShshnk/groq-llama3-rag-bot/blob/main/media/1.png)
 
    Step 2: Process the PDF
-   ![Process PDF](groq-llama3-rag-bot/media/2.png)
+   ![Process PDF](https://github.com/iShshnk/groq-llama3-rag-bot/blob/main/media/2.png)
 
    Step 3: Enter your Question
-   ![Enter Question](groq-llama3-rag-bot/media/3.png)
+   ![Enter Question](https://github.com/iShshnk/groq-llama3-rag-bot/blob/main/media/3.png)
 
    Step 4: Get Answer
-   ![Get Answer](groq-llama3-rag-bot/media/4.png)
+   ![Get Answer](https://github.com/iShshnk/groq-llama3-rag-bot/blob/main/media/4.png)
 
 ## How It Works
 
